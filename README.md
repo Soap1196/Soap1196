@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Soap1196
+- 👀 I’m interested in software engineering and cybersecurity
+- 🌱 I’m currently learning algorithms and data structures
+- 📫 How to reach me: Jacobd73@uab.edu
